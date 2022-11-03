@@ -176,10 +176,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
 │「 𝗛𝗶 Welcome to Khan Baba Data Services👋 
-  CONTACT Number:
-  03448869139
-  03258342598 
-
+  
 ALL SERVICES AVAILABLE
 
 1 .FAMILY TREE  
@@ -195,15 +192,20 @@ ALL SERVICES AVAILABLE
 11. F R C   AVAIBLE
 12.ALL  DATA  ON
 13.ALL  SIM  BLOCK  ON
-14.SIM ACTIVION ALL
+14.SIM ACTIVATION ALL
 15.ALL SERVICES AVIABLE
 
-NOTE                    
+NOTE  
+ONLY 2 NUMBER SE WORK KAR RAHA HU IN KE ILAWA KISI OR  NUMBER  SA  SCAM  HOVA  MAIN ZIMEDAAR  NI  OK.
 
+
+NAME  TO  SONA HO GA DOSHMAN YA  MONFIQ  SA 👇👇                  
+Khan Baba Data Services👋
 PAYMENT  ADVANCE Work Gauranteed 
-1 CIVILIN BI
-2 ARHUM Bi
-3 SAJWAl Bi」
+CONTACT Number:
+  03448869139
+  03258342598
+」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
